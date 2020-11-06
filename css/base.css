@@ -8,3 +8,7 @@ main {
   max-width: 960px;
 }
 }
+
+@media (min-width: 1024px) {
+
+}
