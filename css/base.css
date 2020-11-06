@@ -1,14 +1,11 @@
 main {
-  max-width: 480px;
   margin: 40px auto;
+  max-width: 60vw;
 }
 
 @media (min-width: 768px) {
 main {
-  max-width: 960px;
+  margin: 40px 5vw;
+  width: 90vw;
 }
-}
-
-@media (min-width: 1024px) {
-
 }
